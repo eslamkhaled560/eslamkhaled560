@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eslamkhaled560
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on any data science or analsis project
+- 💞️ I’m looking to collaborate on any data science or analysis project
 - 📫 How to reach me - eslamKhaled560@gmail.com
 
 <!---
