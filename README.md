@@ -1,7 +1,7 @@
 - 👋 Hi, I’m __Islam Khaled__.
 - 👀 I’m interested in __DevOps__, Data Science and AI.
 - 🌱 I’m currently focusing more on __DevOps__.
-- 💞️ I’m looking to collaborate on any __DevOps__ or Data Science projects.
+- 💞️ I’m looking to collaborate on any __DevOps__ projects.
 - 📫 How to reach me - eslamKhaled560@gmail.com - [Linked-In](https://www.linkedin.com/in/islam-khaled-b11822121/)
 
 <!---
